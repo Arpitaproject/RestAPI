@@ -111,10 +111,10 @@ CREATE TABLE students (
 );
 
 ## 📸 Final Output
-###Frontend 
+
 
 ![src1](https://github.com/user-attachments/assets/370b9c98-5929-49ba-a27c-0e9db8dd523c)
 
-###Backend 
+
 
 <img width="917" height="246" alt="1" src="https://github.com/user-attachments/assets/ba479f42-04aa-470c-9368-a17610651ea3" />
